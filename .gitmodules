@@ -6,3 +6,7 @@
 	path = GoodbyeDS
 	url = https://github.com/winderica/GoodbyeDS
 	branch = master
+[submodule "AdiosDS"]
+	path = AdiosDS
+	url = https://github.com/winderica/AdiosDS
+	branch = master
