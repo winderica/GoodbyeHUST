@@ -26,3 +26,7 @@
 	path = GoodbyeSoftwareSec
 	url = https://github.com/winderica/GoodbyeSoftwareSec
 	branch = master
+[submodule "GoodbyeCrypto"]
+	path = GoodbyeCrypto
+	url = https://github.com/winderica/GoodbyeCrypto
+	branch = master
