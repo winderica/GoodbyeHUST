@@ -18,3 +18,7 @@
 	path = GoodbyeASM
 	url = https://github.com/winderica/GoodbyeASM
 	branch = master
+[submodule "GoodbyeICS"]
+	path = GoodbyeICS
+	url = https://github.com/winderica/GoodbyeICS
+	branch = master
