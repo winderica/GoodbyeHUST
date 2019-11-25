@@ -30,3 +30,7 @@
 	path = GoodbyeCrypto
 	url = https://github.com/winderica/GoodbyeCrypto
 	branch = master
+[submodule "GoodbyeGame"]
+	path = GoodbyeGame
+	url = https://github.com/winderica/GoodbyeGame
+	branch = master
