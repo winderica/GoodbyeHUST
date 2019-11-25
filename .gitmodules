@@ -2,3 +2,7 @@
 	path = GoodbyeC
 	url = https://github.com/winderica/GoodbyeC
 	branch = master
+[submodule "GoodbyeDS"]
+	path = GoodbyeDS
+	url = https://github.com/winderica/GoodbyeDS
+	branch = master
