@@ -22,3 +22,7 @@
 	path = GoodbyeICS
 	url = https://github.com/winderica/GoodbyeICS
 	branch = master
+[submodule "GoodbyeSoftwareSec"]
+	path = GoodbyeSoftwareSec
+	url = https://github.com/winderica/GoodbyeSoftwareSec
+	branch = master
