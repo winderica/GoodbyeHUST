@@ -42,3 +42,7 @@
 	path = GoodbyeCompiler
 	url = https://github.com/winderica/GoodbyeCompiler
 	branch = master
+[submodule "GoodbyeDB"]
+	path = GoodbyeDB
+	url = https://github.com/winderica/GoodbyeDB
+	branch = master
