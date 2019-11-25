@@ -10,3 +10,7 @@
 	path = AdiosDS
 	url = https://github.com/winderica/AdiosDS
 	branch = master
+[submodule "GoodbyeDigitalLogic"]
+	path = GoodbyeDigitalLogic
+	url = https://github.com/winderica/GoodbyeDigitalLogic
+	branch = master
