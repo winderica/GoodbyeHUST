@@ -38,3 +38,7 @@
 	path = GoodbyeOS
 	url = https://github.com/winderica/GoodbyeOS
 	branch = master
+[submodule "GoodbyeCompiler"]
+	path = GoodbyeCompiler
+	url = https://github.com/winderica/GoodbyeCompiler
+	branch = master
