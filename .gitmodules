@@ -1,0 +1,4 @@
+[submodule "GoodbyeC"]
+	path = GoodbyeC
+	url = https://github.com/winderica/GoodbyeC
+	branch = master
