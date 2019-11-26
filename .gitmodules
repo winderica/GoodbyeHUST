@@ -46,3 +46,7 @@
 	path = GoodbyeDB
 	url = https://github.com/winderica/GoodbyeDB
 	branch = master
+[submodule "GoodbyeNetwork"]
+	path = GoodbyeNetwork
+	url = https://github.com/winderica/GoodbyeNetwork
+	branch = master
