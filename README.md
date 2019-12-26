@@ -1,2 +1,3 @@
-# GoodbyeUndefined
-This is a meta repository of "Goodbye"-series experiments, course designes, etc. (Repository name will be changed when the time is ripe)
+# GoodbyeHUST
+
+![It sucks](https://i.loli.net/2019/12/26/b6qkD8ms42orXZu.jpg)
