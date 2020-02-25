@@ -50,3 +50,7 @@
 	path = GoodbyeNetwork
 	url = https://github.com/winderica/GoodbyeNetwork
 	branch = master
+[submodule "AdiosOS"]
+	path = AdiosOS
+	url = https://github.com/winderica/AdiosOS
+	branch = master
