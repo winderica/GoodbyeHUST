@@ -70,3 +70,7 @@
 	path = GoodbyeOrganization
 	url = https://github.com/winderica/GoodbyeOrganization
 	branch = master
+[submodule "GoodbyeTC"]
+	path = GoodbyeTC
+	url = https://github.com/winderica/GoodbyeTC
+	branch = master
