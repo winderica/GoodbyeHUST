@@ -66,3 +66,7 @@
 	path = GoodbyeSteganography
 	url = https://github.com/winderica/GoodbyeSteganography
 	branch = master
+[submodule "GoodbyeOrganization"]
+	path = GoodbyeOrganization
+	url = https://github.com/winderica/GoodbyeOrganization
+	branch = master
