@@ -62,3 +62,7 @@
 	path = GoodbyeRE
 	url = https://github.com/winderica/GoodbyeRE
 	branch = master
+[submodule "GoodbyeSteganography"]
+	path = GoodbyeSteganography
+	url = https://github.com/winderica/GoodbyeSteganography
+	branch = master
