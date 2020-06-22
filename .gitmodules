@@ -54,3 +54,7 @@
 	path = GoodbyeSoftwareSec
 	url = https://github.com/winderica/GoodbyeSoftwareSec
 	branch = master
+[submodule "AdiosSoftwareSec"]
+	path = AdiosSoftwareSec
+	url = https://github.com/winderica/AdiosSoftwareSec
+	branch = master
