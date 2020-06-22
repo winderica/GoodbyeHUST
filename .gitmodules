@@ -22,10 +22,6 @@
 	path = GoodbyeICS
 	url = https://github.com/winderica/GoodbyeICS
 	branch = master
-[submodule "GoodbyeSoftwareSec"]
-	path = GoodbyeSoftwareSec
-	url = https://github.com/winderica/GoodbyeSoftwareSec
-	branch = master
 [submodule "GoodbyeCrypto"]
 	path = GoodbyeCrypto
 	url = https://github.com/winderica/GoodbyeCrypto
@@ -53,4 +49,8 @@
 [submodule "AdiosOS"]
 	path = AdiosOS
 	url = https://github.com/winderica/AdiosOS
+	branch = master
+[submodule "GoodbyeSoftwareSec"]
+	path = GoodbyeSoftwareSec
+	url = https://github.com/winderica/GoodbyeSoftwareSec
 	branch = master
