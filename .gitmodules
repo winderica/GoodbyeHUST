@@ -58,3 +58,7 @@
 	path = AdiosCrypto
 	url = https://github.com/winderica/AdiosCrypto
 	branch = master
+[submodule "GoodbyeRE"]
+	path = GoodbyeRE
+	url = https://github.com/winderica/GoodbyeRE
+	branch = master
