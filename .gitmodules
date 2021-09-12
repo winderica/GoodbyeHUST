@@ -82,3 +82,15 @@
 	path = GoodbyeNetworkSec
 	url = https://github.com/winderica/GoodbyeNetworkSec
 	branch = master
+[submodule "AdiosNetworkSecurity"]
+	path = AdiosNetworkSecurity
+	url = https://github.com/winderica/AdiosNetworkSecurity
+	branch = master
+[submodule "GoodbyeNetworkSecurityProgramming"]
+	path = GoodbyeNetworkSecurityProgramming
+	url = https://github.com/winderica/GoodbyeNetworkSecurityProgramming
+	branch = master
+[submodule "GraDAuth"]
+	path = GraDAuth
+	url = https://github.com/winderica/GraDAuth
+	branch = master
